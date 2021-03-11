@@ -1,62 +1,62 @@
 [
   {
-    "x": 38,
-    "y": "B1-007028"
+    "message_occurance": 38,
+    "message_name": "B1-007028"
   },
   {
-    "x": 36,
-    "y": "B1-006021"
+    "message_occurance": 36,
+    "message_name": "B1-006021"
   },
   {
-    "x": 34,
-    "y": "B1-006902"
+    "message_occurance": 34,
+    "message_name": "B1-006902"
   },
   {
-    "x": 33,
-    "y": "B1-007026"
+    "message_occurance": 33,
+    "message_name": "B1-007026"
   },
   {
-    "x": 32,
-    "y": "B1-007061"
+    "message_occurance": 32,
+    "message_name": "B1-007061"
   },
   {
-    "x": 32,
-    "y": "B1-006987"
+    "message_occurance": 32,
+    "message_name": "B1-006987"
   },
   {
-    "x": 13,
-    "y": "B1-006952"
+    "message_occurance": 13,
+    "message_name": "B1-006952"
   },
   {
-    "x": 6,
-    "y": "B1-005970"
+    "message_occurance": 6,
+    "message_name": "B1-005970"
   },
   {
-    "x": 6,
-    "y": "B1-007459"
+    "message_occurance": 6,
+    "message_name": "B1-007459"
   },
   {
-    "x": 5,
-    "y": "B1-008139"
+    "message_occurance": 5,
+    "message_name": "B1-008139"
   },
   {
-    "x": 5,
-    "y": "B1-008149"
+    "message_occurance": 5,
+    "message_name": "B1-008149"
   },
   {
-    "x": 5,
-    "y": "B1-008144"
+    "message_occurance": 5,
+    "message_name": "B1-008144"
   },
    {
-    "x": 4,
-    "y": "B1-008134"
+    "message_occurance": 4,
+    "message_name": "B1-008134"
   },
   {
-    "x": 3,
-    "y": "B1-246748"
+    "message_occurance": 3,
+    "message_name": "B1-246748"
   },
   {
-    "x": 3,
-    "y": "B1-006111"
+    "message_occurance": 3,
+    "message_name": "B1-006111"
   }
 ]
