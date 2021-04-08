@@ -1,5 +1,4 @@
-{
-  "AC":[
+{"AC":[
     {
        "aircraftno":"10035",
       "ATA_main":[
@@ -25,8 +24,8 @@
                     }
         ]
     },
-     {
-       "aircraftno":"10145",
+    {
+      "aircraftno":"10145",
       "ATA_main":[
                     {
                       "atano":"38",
